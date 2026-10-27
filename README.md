@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Analysis Using Python
+# Bank Marketing Campaign Analysis
 ## Description
 This capstone project explores a Portuguese bank's direct marketing campaign data to understand patterns associated with customer subscriptions to term deposits. Python-based data cleaning, descriptive statistics, exploratory data analysis (EDA), and visualizations are used to compare customer groups and campaign outcomes. The goal is to support data-informed targeting and campaign planning rather than to establish causal effects.
 
