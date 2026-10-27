@@ -1,7 +1,5 @@
 # Bank Marketing Campaign Analysis Using Python
 
-**Author:** B Sugantha  
-**Domain:** Banking | Marketing Analytics | Exploratory Data Analysis
 
 ## Project Overview
 
@@ -81,6 +79,11 @@ age, job, marital, education, default, balance, housing, loan, contact, day, mon
 ## Conclusion
 
 The project demonstrates a complete descriptive analytics workflow, from dataset inspection and preprocessing checks through segmentation, conversion-rate analysis and visualization. The findings indicate differences in term-deposit subscription behavior across customer groups and contact strategies, offering useful hypotheses for follow-up campaigns. Future improvements could include corrected percentage-scale validation, confidence intervals, statistical tests and predictive modeling.
+
+
+
+**Author:** B Sugantha  
+**Domain:** Banking | Marketing Analytics | Exploratory Data Analysis
 
 ## Author and Attribution
 
