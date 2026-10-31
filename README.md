@@ -53,7 +53,8 @@ This project explores a Portuguese bank's direct marketing campaign data to unde
 8. **Age group × contact method:** Heatmap exploring segment-level subscription rates.
 9. **Age vs. account balance:** Scatter plot colored by subscription status.
 10. **Job category:** Subscription counts and calculated subscription rates by job.
-**Note:** - The chart labeled as the previous campaign outcome analysis actually plots an age-group-by-contact-method heatmap.
+
+- **Note:** - The chart labeled as the previous campaign outcome analysis actually plots an age-group-by-contact-method heatmap.
 - Also, the subscribed indicator is assigned on a 0–100 scale in some cells, so multiplying its average by 100 again can overstate percentages.
 - Normalize it to 0/1 before calculating mean() * 100 or average the 0/100 version without another multiplication.
 
